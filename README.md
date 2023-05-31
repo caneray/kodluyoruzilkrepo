@@ -23,4 +23,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT]()
 
-![Proje Fotografi](https://www.hizliresim.com/61h2uby)
+![Proje Fotografi](img/project.png)
